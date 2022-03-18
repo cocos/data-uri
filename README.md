@@ -1,2 +1,2 @@
 
-A data uri parse library.
+A data uri parse library for parsing basa64.
